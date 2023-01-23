@@ -1,6 +1,6 @@
 # AI-in-music
 
-This repository provides different resources on AI applications in music domain, including major topics, conferences, research institutes, and the major players in industry .
+This repository provides different resources on AI applications in the music domain, including but not limited to major topics, conferences, research institutes, and the major players in industry.
 
 ## Topics
 - Music Recommendation
@@ -24,5 +24,23 @@ This repository provides different resources on AI applications in music domain,
 - [ISMIR List](https://www.ismir.net/resources/research-centers/)
 - [SMC List](https://smcnetwork.org/centers.html)
 
+## Big Tech Projects
+- [Magenta](https://research.google/teams/brain/magenta/) by Google Brain
+- [Jukebox](https://openai.com/blog/jukebox/) by OpenAI
+- [Muzic](https://github.com/microsoft/muzic) by Microsoft
+- [Demucs](https://github.com/facebookresearch/demucs) by Meta
+
+## SOTA
+- [Riffusion](https://www.riffusion.com/)
+- [AudioLM](https://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
+
+## Courses and Tutorials
+- [musicinformationretrieval.com](https://musicinformationretrieval.com/)
+- [Music Information Retrieval by George Tzanetakis](https://www.kadenze.com/programs/music-information-retrieval)
+
+## Tools and Libraries
+- [Librosa](https://librosa.org/)
+- [Essentia](http://essentia.upf.edu/) and [Essentia.js](https://mtg.github.io/essentia.js/docs/api/index.html)
+- [MusPy](https://salu133445.github.io/muspy/)
 
 ## Companies and Startups
