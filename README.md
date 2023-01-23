@@ -18,7 +18,7 @@ This repository provides a list of different resources on AI for music and music
 - [ICML Machine Learning for Music Discovery](https://sites.google.com/view/ml4md2019/home?pli=1)
 - [Journal of Creative Music Systems](https://www.jcms.org.uk/
 )
-- [IEEE ICASSP]((https://2023.ieeeicassp.org/))
+- [IEEE ICASSP](https://2023.ieeeicassp.org/)
 - ICMC (International Conference on Computer Music)
 - [ISMIR List](https://ismir.net/resources/related/)
 
