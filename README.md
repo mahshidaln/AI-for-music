@@ -52,7 +52,32 @@ This repository provides a list of different resources on AI for music and music
 ## Datasets
 - [ISMIR List](https://ismir.net/resources/datasets/)
 
-## Companies and Startups
+## Apps and Products
+
+|                              Name                              |                           Application                          |   Location  |
+|:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
+| [AI Music Lessons (by Frettable)](https://aimusiclessons.com/) |                         Music Training                         |   Edmonton  |
+|                    [Aiva](https://aiva.ai/)                    |                        Music Generation                        |  Luxembourg |
+|              [Alysia](https://www.withalysia.com/)             |                        Music Generation                        |  California |
+|           [Amadeus Code](https://amadeuscode.com/en/)          |                           Songwriting                          |    Tokyo    |
+|              [Amper](https://www.ampermusic.com/)              |                        Music Generation                        |   New York  |
+|                   [Boomy](https://boomy.com/)                  |                        Music Generation                        |  California |
+|            [Chordify](https://chordify.net/?lang=en)           |                        Chord Recognition                       |    Utrech   |
+|                   [Endel](https://endel.io/)                   |             Soundscape Generation  (Sound Wellness)            |    Berlin   |
+|    [Flow Machines (by Sony)](https://www.flow-machines.com/)   |                        Music Generation                        |    Tokyo    |
+|             [Frettable](https://www.frettable.com/)            |                       Music Transcription                      |   Edmonton  |
+|                  [HITLAB](https://hitlab.com/)                 |                       Hit Song Prediction                      |   Montreal  |
+|                [LALAL.AI](https://www.lalal.ai/)               |                     Music Source Separation                    | Switzerland |
+|                 [LANDR](https://www.landr.com/)                |                         Music Mastering                        |   Montreal  |
+|           [LUCID](https://www.lucidtherapeutics.com/)          | Music Recommendation, Playlist Curation, (Health and Wellness) |   Toronto   |
+|                  [Moises](https://moises.ai/)                  |            Music Source Separation,  Key Transposer            |     Utah    |
+|                  [Mubert](https://mubert.com/)                 |                        Music Generation                        |   Delaware  |
+|                   [MXX](https://www.mxx.ai/)                   |                          Music Editing                         |    London   |
+|              [PhonicMind](https://phonicmind.com/)             |                     Music Source Separation                    |      -      |
+|                [Soundraw](https://soundraw.io/)                |                        Music Generation                        |    Tokyo    |
+|                [Soundful](https://soundful.com/)               |                        Music Generation                        |  California |
+|             [Splash](https://www.splashmusic.com/)             |                  Music Generation,  AI Singing                 |  Australia  |
+|            [Voice Magix](http://www.voicemagix.com/)           |                   Audio and Lyrics Alignment                   |   Bulgaria  |
 
 
 ## For Developers
