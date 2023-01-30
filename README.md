@@ -79,11 +79,3 @@ This repository provides a list of different resources on AI for music and music
 |             [Splash](https://www.splashmusic.com/)             |                  Music Generation,  AI Singing                 |  Australia  |
 |            [Voice Magix](http://www.voicemagix.com/)           |                   Audio and Lyrics Alignment                   |   Bulgaria  |
 
-
-## For Developers
-- [Spotify API](https://developer.spotify.com/)
-- [LastFM API](https://www.last.fm/api)
-- [Apple Music API](https://developer.apple.com/documentation/applemusicapi/)
-- [Shazam API](https://www.shazam.com/shazamkit)
-- [Deezer API](https://developers.deezer.com/login?redirect=/api)
-- [Soundcloud API](https://developers.soundcloud.com/docs/api/guide)
