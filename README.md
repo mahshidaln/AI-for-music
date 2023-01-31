@@ -36,6 +36,7 @@ This repository provides a list of different resources on AI for music and music
 ## SOTA
 - [Riffusion](https://www.riffusion.com/)
 - [AudioLM](https://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
+- [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
 
 ## Courses and Tutorials
 - [musicinformationretrieval.com](https://musicinformationretrieval.com/)
