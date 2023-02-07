@@ -63,6 +63,7 @@ This repository provides a list of different resources on AI for music and music
 |           [Amadeus Code](https://amadeuscode.com/en/)          |                           Songwriting                          |    Tokyo    |
 |              [Amper](https://www.ampermusic.com/)              |                        Music Generation                        |   New York  |
 |                   [Boomy](https://boomy.com/)                  |                        Music Generation                        |  California |
+|                [Brain.fm](https://www.brain.fm/)               |                 Music Generation (Focus-music)                 |   New York  |
 |            [Chordify](https://chordify.net/?lang=en)           |                        Chord Recognition                       |    Utrech   |
 |                   [Endel](https://endel.io/)                   |             Soundscape Generation  (Sound Wellness)            |    Berlin   |
 |    [Flow Machines (by Sony)](https://www.flow-machines.com/)   |                        Music Generation                        |    Tokyo    |
@@ -71,8 +72,10 @@ This repository provides a list of different resources on AI for music and music
 |                [LALAL.AI](https://www.lalal.ai/)               |                     Music Source Separation                    | Switzerland |
 |                 [LANDR](https://www.landr.com/)                |                         Music Mastering                        |   Montreal  |
 |           [LUCID](https://www.lucidtherapeutics.com/)          | Music Recommendation, Playlist Curation, (Health and Wellness) |   Toronto   |
+|               [MediMusic](https://medimusic.co/)               |            Playlist Generation (Health and Wellness)           |      UK     |
 |                  [Moises](https://moises.ai/)                  |            Music Source Separation,  Key Transposer            |     Utah    |
 |                  [Mubert](https://mubert.com/)                 |                        Music Generation                        |   Delaware  |
+|               [MusicFit](http://www.musicfit.eu/)              |           Music Generation (Fitness and Workout)               |    Milan    |
 |                   [MXX](https://www.mxx.ai/)                   |                          Music Editing                         |    London   |
 |              [PhonicMind](https://phonicmind.com/)             |                     Music Source Separation                    |      -      |
 |                [Soundraw](https://soundraw.io/)                |                        Music Generation                        |    Tokyo    |
