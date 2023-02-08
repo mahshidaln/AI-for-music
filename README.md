@@ -74,12 +74,13 @@ This repository provides a list of different resources on AI for music and music
 |           [LUCID](https://www.lucidtherapeutics.com/)          | Music Recommendation, Playlist Curation, (Health and Wellness) |   Toronto   |
 |               [MediMusic](https://medimusic.co/)               |            Playlist Generation (Health and Wellness)           |      UK     |
 |                  [Moises](https://moises.ai/)                  |            Music Source Separation,  Key Transposer            |     Utah    |
+|             [Moodify](https://moodify.toasted.ai/)             |                Playlist Generation (Mood-based)                |   Toronto   |
 |                  [Mubert](https://mubert.com/)                 |                        Music Generation                        |   Delaware  |
-|               [MusicFit](http://www.musicfit.eu/)              |           Music Generation (Fitness and Workout)               |    Milan    |
+|               [MusicFit](http://www.musicfit.eu/)              |             Music Generation (Fitness and Workout)             |    Milan    |
 |                   [MXX](https://www.mxx.ai/)                   |                          Music Editing                         |    London   |
 |              [PhonicMind](https://phonicmind.com/)             |                     Music Source Separation                    |      -      |
 |                [Soundraw](https://soundraw.io/)                |                        Music Generation                        |    Tokyo    |
 |                [Soundful](https://soundful.com/)               |                        Music Generation                        |  California |
 |             [Splash](https://www.splashmusic.com/)             |                  Music Generation,  AI Singing                 |  Australia  |
+|       [Vera by Music Health](https://www.veramusic.com/)       |  Music Recommendation, Playlist Curation, (Dementia Patients)  |  California |
 |            [Voice Magix](http://www.voicemagix.com/)           |                   Audio and Lyrics Alignment                   |   Bulgaria  |
-
