@@ -84,3 +84,5 @@ This repository provides a list of different resources on AI for music and music
 |             [Splash](https://www.splashmusic.com/)             |                  Music Generation,  AI Singing                 |  Australia  |
 |       [Vera by Music Health](https://www.veramusic.com/)       |  Music Recommendation, Playlist Curation, (Dementia Patients)  |  California |
 |            [Voice Magix](http://www.voicemagix.com/)           |                   Audio and Lyrics Alignment                   |   Bulgaria  |
+
+A more complete list of Audio and Music AI startups can be found [here](https://github.com/csteinmetz1/ai-audio-startups).
