@@ -26,6 +26,8 @@ This repository provides a list of different resources on AI for music and music
 - [ISMIR List](https://www.ismir.net/resources/research-centers/)
 - [SMC List](https://smcnetwork.org/centers.html)
 
+## Online Ecosystem
+- [The Sound of AI](https://thesoundofai.com/)
 
 ## Big Tech Projects
 - [Magenta](https://research.google/teams/brain/magenta/) by Google Brain
