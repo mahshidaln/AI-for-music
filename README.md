@@ -23,6 +23,7 @@ This repository provides a list of different resources on AI for music and music
 - [ISMIR List](https://ismir.net/resources/related/)
 
 ## Research Institutes and Labs
+- [Harmonai] (https://github.com/Harmonai-org)
 - [AIM](https://ai4musicians.org/)
 - [ISMIR List](https://www.ismir.net/resources/research-centers/)
 - [SMC List](https://smcnetwork.org/centers.html)
@@ -33,15 +34,18 @@ This repository provides a list of different resources on AI for music and music
 ## Big Tech Projects
 - [Magenta](https://research.google/teams/brain/magenta/) by Google Brain
 - [Jukebox](https://openai.com/blog/jukebox/) by OpenAI
-- [Muzic](https://github.com/microsoft/muzic) by Microsoft
+- [Muzic](https://microsoft.github.io/muzic/) by Microsoft
 - [Demucs](https://github.com/facebookresearch/demucs) by Meta
 
 ## SOTA
+- [RAVE](https://github.com/acids-ircam/RAVE)
 - [Riffusion](https://www.riffusion.com/)
 - [AudioLM](https://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
-- [MusicGen](https://github.com/facebookresearch/audiocraft)
+- [AudioCraft](https://github.com/facebookresearch/audiocraft)
 - [Lyria](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
+- [Stable Audio](https://stability.ai/stable-audio)
+- [MuMu-LLaMA](https://github.com/shansongliu/MuMu-LLaMA)
 
 ## Courses and Tutorials
 - [musicinformationretrieval.com](https://musicinformationretrieval.com/)
@@ -59,6 +63,7 @@ This repository provides a list of different resources on AI for music and music
 - [ISMIR List](https://ismir.net/resources/datasets/)
 
 ## Apps and Products
+A more complete list of Audio and Music AI startups can be found [here](https://github.com/csteinmetz1/ai-audio-startups).
 
 |                              Name                              |                           Application                          |   Location  |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
@@ -90,4 +95,3 @@ This repository provides a list of different resources on AI for music and music
 |       [Vera by Music Health](https://www.veramusic.com/)       |  Music Recommendation, Playlist Curation, (Dementia Patients)  |  California |
 |            [Voice Magix](http://www.voicemagix.com/)           |                   Audio and Lyrics Alignment                   |   Bulgaria  |
 
-A more complete list of Audio and Music AI startups can be found [here](https://github.com/csteinmetz1/ai-audio-startups).
