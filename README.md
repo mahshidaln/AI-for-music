@@ -23,7 +23,7 @@ This repository provides a list of different resources on AI for music and music
 - [ISMIR List](https://ismir.net/resources/related/)
 
 ## Research Institutes and Labs
-- [Harmonai] (https://github.com/Harmonai-org)
+- [Harmonai](https://github.com/Harmonai-org)
 - [AIM](https://ai4musicians.org/)
 - [ISMIR List](https://www.ismir.net/resources/research-centers/)
 - [SMC List](https://smcnetwork.org/centers.html)
