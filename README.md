@@ -36,6 +36,7 @@ This repository provides a list of different resources on AI for music and music
 - [Jukebox](https://openai.com/blog/jukebox/) by OpenAI
 - [Muzic](https://microsoft.github.io/muzic/) by Microsoft
 - [Demucs](https://github.com/facebookresearch/demucs) by Meta
+- [MusicGen](https://musicgen.com/) by Meta
 
 ## SOTA
 - [RAVE](https://github.com/acids-ircam/RAVE)
@@ -46,6 +47,8 @@ This repository provides a list of different resources on AI for music and music
 - [Lyria](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
 - [Stable Audio](https://stability.ai/stable-audio)
 - [MuMu-LLaMA](https://github.com/shansongliu/MuMu-LLaMA)
+- [AudioX](https://github.com/ZeyueT/AudioX)
+- [Audio Flamingo 3](https://github.com/NVIDIA/audio-flamingo)
 
 ## Courses and Tutorials
 - [musicinformationretrieval.com](https://musicinformationretrieval.com/)
