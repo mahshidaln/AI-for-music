@@ -48,6 +48,7 @@ This repository provides a list of different resources on AI for music and music
 - [Stable Audio](https://stability.ai/stable-audio)
 - [MuMu-LLaMA](https://github.com/shansongliu/MuMu-LLaMA)
 - [AudioX](https://github.com/ZeyueT/AudioX)
+- [YuE](https://github.com/multimodal-art-projection/YuE?tab=readme-ov-file)
 - [Audio Flamingo 3](https://github.com/NVIDIA/audio-flamingo)
 
 ## Courses and Tutorials
