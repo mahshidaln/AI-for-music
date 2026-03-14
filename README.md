@@ -76,6 +76,7 @@ A more complete list of Audio and Music AI startups can be found [here](https://
 |              [Alysia](https://www.withalysia.com/)             |                        Music Generation                        |  California |
 |           [Amadeus Code](https://amadeuscode.com/en/)          |                           Songwriting                          |    Tokyo    |
 |              [Amper](https://www.ampermusic.com/)              |                        Music Generation                        |   New York  |
+|                  [Boppy](https://boppy.me/)                   |          Music Generation (Text-to-Song with Lyrics)           |      -      |
 |                   [Boomy](https://boomy.com/)                  |                        Music Generation                        |  California |
 |                [Brain.fm](https://www.brain.fm/)               |                 Music Generation (Focus-music)                 |   New York  |
 |            [Chordify](https://chordify.net/?lang=en)           |                        Chord Recognition                       |    Utrech   |
