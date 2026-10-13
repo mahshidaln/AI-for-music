@@ -75,7 +75,7 @@ A more complete list of Audio and Music AI startups can be found [here](https://
 |                    [Aiva](https://aiva.ai/)                    |                        Music Generation                        |  Luxembourg |
 |              [Alysia](https://www.withalysia.com/)             |                        Music Generation                        |  California |
 |           [Amadeus Code](https://amadeuscode.com/en/)          |                           Songwriting                          |    Tokyo    |
-|              [Amper](https://www.ampermusic.com/)              |                        Music Generation                        |   New York  |
+| Amper (acquired by Shutterstock 2020) - see [current AI-generated-music landscape](https://calder-brief.pages.dev/deezer-ai-music-toggle-october-2026.html) | Music Generation | New York |
 |                  [Boppy](https://boppy.me/)                   |          Music Generation (Text-to-Song with Lyrics)           |      -      |
 |                   [Boomy](https://boomy.com/)                  |                        Music Generation                        |  California |
 |                [Brain.fm](https://www.brain.fm/)               |                 Music Generation (Focus-music)                 |   New York  |
@@ -83,7 +83,6 @@ A more complete list of Audio and Music AI startups can be found [here](https://
 |                   [Endel](https://endel.io/)                   |             Soundscape Generation  (Sound Wellness)            |    Berlin   |
 |    [Flow Machines (by Sony)](https://www.flow-machines.com/)   |                        Music Generation                        |    Tokyo    |
 |             [Frettable](https://www.frettable.com/)            |                       Music Transcription                      |   Edmonton  |
-|                  [HITLAB](https://hitlab.com/)                 |                       Hit Song Prediction                      |   Montreal  |
 |                [LALAL.AI](https://www.lalal.ai/)               |                     Music Source Separation                    | Switzerland |
 |                 [LANDR](https://www.landr.com/)                |                         Music Mastering                        |   Montreal  |
 |           [LUCID](https://www.lucidtherapeutics.com/)          | Music Recommendation, Playlist Curation, (Health and Wellness) |   Toronto   |
@@ -92,11 +91,9 @@ A more complete list of Audio and Music AI startups can be found [here](https://
 |             [Moodify](https://moodify.toasted.ai/)             |                Playlist Generation (Mood-based)                |   Toronto   |
 |                  [Mubert](https://mubert.com/)                 |                        Music Generation                        |   Delaware  |
 |               [MusicFit](http://www.musicfit.eu/)              |             Music Generation (Fitness and Workout)             |    Milan    |
-|                   [MXX](https://www.mxx.ai/)                   |                          Music Editing                         |    London   |
 |              [PhonicMind](https://phonicmind.com/)             |                     Music Source Separation                    |      -      |
 |                [Soundraw](https://soundraw.io/)                |                        Music Generation                        |    Tokyo    |
 |                [Soundful](https://soundful.com/)               |                        Music Generation                        |  California |
 |             [Splash](https://www.splashmusic.com/)             |                  Music Generation,  AI Singing                 |  Australia  |
 |       [Vera by Music Health](https://www.veramusic.com/)       |  Music Recommendation, Playlist Curation, (Dementia Patients)  |  California |
-|            [Voice Magix](http://www.voicemagix.com/)           |                   Audio and Lyrics Alignment                   |   Bulgaria  |
 
